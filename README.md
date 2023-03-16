@@ -1,7 +1,23 @@
-# Mass PDF Page Text Input
-## Request: To place a certain text in every page of all pdf documents in a folder/current directory
-### Instructions:
-1. Edit the font,style,coordinates and text in the python file
-2. Make sure the page size is correct (it is set to A1 now)
-3. Add the PDF files you want into the same directory
-4. Run the script!
+
+# PDF Merger
+
+This Python script merges multiple PDF files into one. It uses the PyPDF2 and Reportlab libraries to manipulate PDFs and create a watermark.
+
+
+
+
+## Prerequisites
+
+1.Python 3.x
+
+2.PyPDF2
+
+3.Reportlab
+
+
+
+## Usage/Examples
+
+Place the PDF files you want to merge in the same directory as the script.
+
+
